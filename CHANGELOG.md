@@ -1,11 +1,12 @@
 # Changelog
 
-Current version: **4.8.6**. The version number lives in `pots_dashboard.pyw` (`VERSION`), is shown in window titles and on the dashboard, and is bumped on every change.
+Current version: **4.8.7**. The version number lives in `pots_dashboard.pyw` (`VERSION`), is shown in window titles and on the dashboard, and is bumped on every change.
 
 ## 4.8.x
+- **4.8.7** Calendar: the word for stability 1 is "lowest" so it no longer wraps in the day squares.
 - **4.8.6** The mascot dino is the icon on the app's windows.
 - **4.8.5** Period days in the Timeline events strip are a red circle instead of the blood-drop emoji (it did not show on some systems).
-- **4.8.4** Calendar days show a small word next to the stability number (very low, low, mid, good, great); the key below the calendar has a divider line.
+- **4.8.4** Calendar days show a small word next to the stability number (lowest, low, mid, good, great); the key below the calendar has a divider line.
 - **4.8.3** Calendar days are square.
 - **4.8.2** Calendar squares are all the same, smaller size.
 - **4.8.1** Today cards: sleep cards sit in the Right now row; cycle cards share a row with other signals.
