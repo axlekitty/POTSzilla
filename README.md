@@ -1,4 +1,9 @@
 # PotsZilla
+The mascot reacts to your day:
+
+| Steady | Strained | Short night | Flare | Good day |
+|---|---|---|---|---|
+| ![](screenshots/mascot-walk.gif) | ![](screenshots/mascot-strain.gif) | ![](screenshots/mascot-rest.gif) | ![](screenshots/mascot-flare.gif) | ![](screenshots/mascot-good-day.gif) |
 
 A personal health dashboard that turns your Garmin watch data (and, optionally, a Visible export) into a plain-language picture of how your body is doing, tracks and rates flares, and tells you when to take it easy. It is a single Python script that opens a small window to log in, then builds one self-contained, dark-themed HTML page and opens it in your browser. A pixel-art Derpy dinosaur mascot in the banner reacts to your day.
 
@@ -15,12 +20,6 @@ All pictures use made-up demo data.
 ![Eight-week calendar](screenshots/calendar.png)
 
 ![Intensity minutes gauge](screenshots/intensity-minutes.png)
-
-The mascot reacts to your day:
-
-| Steady | Strained | Short night | Flare | Good day |
-|---|---|---|---|---|
-| ![](screenshots/mascot-walk.gif) | ![](screenshots/mascot-strain.gif) | ![](screenshots/mascot-rest.gif) | ![](screenshots/mascot-flare.gif) | ![](screenshots/mascot-good-day.gif) |
 
 **Version 4.8.6** (see [CHANGELOG.md](CHANGELOG.md))
 
