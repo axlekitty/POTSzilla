@@ -1,0 +1,17 @@
+# Your personal data. Never commit these.
+garmin_cache/
+garmin_export*.csv
+garmin_export_summary.txt
+symptoms.csv
+symptoms.bak
+visible_history.csv
+Visible_Data_Export*.csv
+period_cycles.csv
+garmin_dashboard.html
+garmin_error_log.txt
+*.bak
+*.bak_*
+
+# Python
+__pycache__/
+*.pyc
