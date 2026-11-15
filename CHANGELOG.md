@@ -1,6 +1,6 @@
 # Changelog
 
-Current version: **4.8.7**. The version number lives in `pots_dashboard.pyw` (`VERSION`), is shown in window titles and on the dashboard, and is bumped on every change.
+Current version: **4.8.7**. The version number lives in `POTSzilla_dashboard_VERSION.pyw` (`VERSION`), is shown in window titles and on the dashboard, and is bumped on every change.
 
 ## 4.8.x
 - **4.8.7** Calendar: the word for stability 1 is "lowest" so it no longer wraps in the day squares.
