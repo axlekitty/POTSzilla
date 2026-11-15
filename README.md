@@ -82,3 +82,8 @@ The script makes only these network calls: Garmin Connect (the login and data yo
 - It uses the unofficial `garminconnect` library, so Garmin login can fail (HTTP 401) or break when Garmin changes things. The app can fall back to saved data.
 - The sleep-score weights are a judgment call, not a validated formula.
 - Tuned and tested on a Forerunner 735XT. Other devices report different fields.
+-
+
+## How the numbers are made
+
+The ideas behind PotsZilla come from published research. Where a study supports a signal, such as heart-rate variability falling around flares, or symptoms shifting across the menstrual cycle, the app's "How it works" tab names the source. But the formulas that turn those ideas into numbers (the stability score, flare detection, pace points, the estimated sleep score and their weights) are my own. I tried to be as scientific as I could, comparing you against your own recent baseline and borrowing from how other trackers do similar things, but in the end I'm making educated guesses. None of them have been clinically validated or tested against a medical standard. Treat every score as a rough guide to how you're doing compared with your own usual, not as a measurement. If you know the research better than I do and see something that should change, please open an issue.
