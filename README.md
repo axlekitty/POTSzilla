@@ -38,6 +38,11 @@ All pictures use made-up demo data.
 - **Accessibility:** a colourblind-safe palette, slow animation (nothing flashes faster than about 2 to 3 changes per second), and a Settings switch to turn the mascot animation off.
 
 ## Installation
+## Download
+
+* **[Download POTSzilla_dashboard_4.8.7.pyw](https://githubusercontent.com)** *(Right-click and choose **Save link as...**)*
+* **[Download requirements.txt](https://githubusercontent.com)** *(Right-click and choose **Save link as...**)*
+* **[Download the full repository (.zip)](https://github.com)** *(One-click download of all files)*
 
 PotsZilla is one Python script. It was built and tested on Windows; Mac and Linux should work but are untested.
 
