@@ -3,7 +3,7 @@ The mascot reacts to your day:
 
 | Steady | Strained | Short night | Flare | Good day |
 |---|---|---|---|---|
-| ![](screenshots/mascot-walk.gif) | ![](screenshots/mascot-strain.gif) | ![](screenshots/mascot-rest.gif) | ![](screenshots/mascot-flare.gif) | ![](screenshots/mascot-good-day.gif) |
+| <img src="screenshots/mascot-walk.gif" width="110"> | <img src="screenshots/mascot-strain.gif" width="110"> | <img src="screenshots/mascot-rest.gif" width="110"> | <img src="screenshots/mascot-flare.gif" width="110"> | <img src="screenshots/mascot-good-day.gif" width="110"> |
 
 A personal health dashboard that turns your Garmin watch data (and, optionally, a Visible export) into a plain-language picture of how your body is doing, tracks and rates flares, and tells you when to take it easy. It is a single Python script that opens a small window to log in, then builds one self-contained, dark-themed HTML page and opens it in your browser. A pixel-art Derpy dinosaur mascot in the banner reacts to your day.
 
@@ -11,15 +11,15 @@ A personal health dashboard that turns your Garmin watch data (and, optionally, 
 
 All pictures use made-up demo data.
 
-![Today tab on a flare day: the dino under a blanket, red alert cards with ALERT tags](screenshots/today-flare-day.png)
+| A flare day | A good day |
+|---|---|
+| <img src="screenshots/today-flare-day.png" alt="Today tab on a flare day: the dino under a blanket, red alert cards with ALERT tags" width="320"> | <img src="screenshots/today-good-day.png" alt="Today tab on a good day" width="320"> |
 
-![Today tab on a good day](screenshots/today-good-day.png)
+<img src="screenshots/sleep.png" alt="Sleep tab: sleep stages with a movement line and the estimated sleep score" width="480">
 
-![Sleep tab: sleep stages with a movement line and the estimated sleep score](screenshots/sleep.png)
+<img src="screenshots/calendar.png" alt="Eight-week calendar" width="320">
 
-![Eight-week calendar](screenshots/calendar.png)
-
-![Intensity minutes gauge](screenshots/intensity-minutes.png)
+<img src="screenshots/intensity-minutes.png" alt="Intensity minutes gauge" width="480">
 
 **Version 4.8.6** (see [CHANGELOG.md](CHANGELOG.md))
 
