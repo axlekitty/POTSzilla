@@ -70,7 +70,7 @@ pip install pandas numpy plotly garminconnect
 (On Mac/Linux use `pip3`. If `pip` is not found on Windows, try `python -m pip install ...`.)
 
 **3. Run it**
-Put `POTSzilla_dashboard_4.8.7.pyw` in a folder of its own, then double-click it (Windows) or run `python POTSzilla_dashboard_4.8.7.pyw` (`python3` on Mac/Linux). The version is in the file name, so yours may differ slightly from this one. Log in to Garmin, or choose "Use saved data", and add a Visible export CSV when asked. The dashboard opens in your browser.
+Put `POTSzilla_dashboard_4.8.7.pyw` in a folder of its own, then double-click it (Windows) or run `python POTSzilla_dashboard_4.8.7.pyw` (`python3` on Mac/Linux). Log in to Garmin, or choose "Use saved data", and add a Visible export CSV when asked. The dashboard opens in your browser.
 
 If a window does not appear, check `garmin_error_log.txt` in the same folder; the app writes its errors there.
 
