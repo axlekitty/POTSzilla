@@ -21,7 +21,7 @@ All pictures use made-up demo data.
 
 <img src="screenshots/intensity-minutes.png" alt="Intensity minutes gauge" width="480">
 
-**Version 4.8.6** (see [CHANGELOG.md](CHANGELOG.md))
+**Version 4.8.7** (see [CHANGELOG.md](CHANGELOG.md))
 
 **Who it might help:** people managing chronic illness who need to pace their energy, such as ME/CFS, POTS, lupus, or other autoimmune conditions that can benefit from self-monitoring biometric data. It shows when your body is under strain and when to rest. It is not specific to any one condition.
 
@@ -39,9 +39,9 @@ All pictures use made-up demo data.
 
 ## Download
 
-* **[Download POTSzilla_dashboard_4.8.7.pyw](https://githubusercontent.com)** *(Right-click and choose **Save link as...**)*
-* **[Download requirements.txt](https://githubusercontent.com)** *(Right-click and choose **Save link as...**)*
-* **[Download the full repository (.zip)](https://github.com)** *(One-click download of all files)*
+* **[Download POTSzilla_dashboard_4.8.7.pyw](https://raw.githubusercontent.com/axlekitty/POTSzilla/main/POTSzilla_dashboard_4.8.7.pyw)** *(Right-click and choose **Save link as...**)*
+* **[Download requirements.txt](https://raw.githubusercontent.com/axlekitty/POTSzilla/main/requirements.txt)** *(Right-click and choose **Save link as...**)*
+* **[Download the full repository (.zip)](https://github.com/axlekitty/POTSzilla/archive/refs/heads/main.zip)** *(One-click download of all files)*
 
 ## Installation
 
@@ -70,7 +70,7 @@ pip install pandas numpy plotly garminconnect
 (On Mac/Linux use `pip3`. If `pip` is not found on Windows, try `python -m pip install ...`.)
 
 **3. Run it**
-Put `pots_dashboard.pyw` in a folder of its own, then double-click it (Windows) or run `python pots_dashboard.pyw` (`python3` on Mac/Linux). Log in to Garmin, or choose "Use saved data", and add a Visible export CSV when asked. The dashboard opens in your browser.
+Put `POTSzilla_dashboard_4.8.7.pyw` in a folder of its own, then double-click it (Windows) or run `python POTSzilla_dashboard_4.8.7.pyw` (`python3` on Mac/Linux). The version is in the file name, so yours may differ slightly from this one. Log in to Garmin, or choose "Use saved data", and add a Visible export CSV when asked. The dashboard opens in your browser.
 
 If a window does not appear, check `garmin_error_log.txt` in the same folder; the app writes its errors there.
 
